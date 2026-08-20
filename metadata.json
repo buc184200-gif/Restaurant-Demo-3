@@ -1,0 +1,6 @@
+{
+  "name": "RAASA",
+  "description": "Contemporary Indian Dining - A country of flavour. One table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
